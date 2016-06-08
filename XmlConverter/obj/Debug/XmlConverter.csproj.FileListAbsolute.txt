@@ -1,0 +1,5 @@
+E:\WorkShops\XmlConverter\XmlConverter\obj\Debug\XmlConverter.csprojResolveAssemblyReference.cache
+E:\WorkShops\XmlConverter\XmlConverter\bin\Debug\XmlConverter.dll
+E:\WorkShops\XmlConverter\XmlConverter\bin\Debug\XmlConverter.pdb
+E:\WorkShops\XmlConverter\XmlConverter\obj\Debug\XmlConverter.dll
+E:\WorkShops\XmlConverter\XmlConverter\obj\Debug\XmlConverter.pdb
